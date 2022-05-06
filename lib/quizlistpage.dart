@@ -14,7 +14,7 @@ class QuizListPage extends StatelessWidget {
       child: Column(
         children: [
           SizedBox(
-            height: 80.0,
+            height: 120.0,
           ),
           InkWell(
             onTap: () {

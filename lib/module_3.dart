@@ -23,7 +23,7 @@ class Module3 extends StatelessWidget {
               height: 50,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 8"),
+              child: Text("Chapter 8"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),
@@ -41,7 +41,7 @@ class Module3 extends StatelessWidget {
               height: 50,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 9"),
+              child: Text("Chapter 9"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),
@@ -59,7 +59,7 @@ class Module3 extends StatelessWidget {
               height: 50,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 10"),
+              child: Text("Chapter 10"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),
@@ -77,7 +77,7 @@ class Module3 extends StatelessWidget {
               height: 50,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 11"),
+              child: Text("Chapter 11"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),

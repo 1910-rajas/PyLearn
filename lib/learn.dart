@@ -17,7 +17,7 @@ class LearnSection extends StatelessWidget {
       child: Column(
         children: [
           SizedBox(
-            height: 90,
+            height: 140,
           ),
           ElevatedButton(
             child: Text(
@@ -110,8 +110,7 @@ class LearnSection extends StatelessWidget {
           ),
           // SizedBox(
           //   height:45,
-
-          // ),
+        // ),
         ],
       ),
     );

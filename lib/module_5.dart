@@ -18,10 +18,10 @@ class Module5 extends StatelessWidget {
         child: Column(
           children: [
             SizedBox(
-              height: 100,
+              height: 120,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 15"),
+              child: Text("Chapter 15"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),
@@ -39,7 +39,7 @@ class Module5 extends StatelessWidget {
               height: 50,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 16"),
+              child: Text("Chapter 16"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),
@@ -57,7 +57,7 @@ class Module5 extends StatelessWidget {
               height: 50,
             ),
             ElevatedButton(
-              child: Text("CHAPTER 17"),
+              child: Text("Chapter 17"),
               style: ElevatedButton.styleFrom(
                   primary: Colors.lightBlue,
                   padding: EdgeInsets.all(30),
